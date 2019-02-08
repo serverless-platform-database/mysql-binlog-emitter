@@ -4,7 +4,7 @@
   "description": "A nodejs mysql/mariadb slave replication event emitter.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tst/_index.js"
+    "test": "mocha tests/_index.js"
   },
   "keywords": [
     "mysql",
